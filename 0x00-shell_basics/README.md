@@ -13,3 +13,4 @@ first dir deletion
 file type
 symbolic link
 copy html
+uppercase
