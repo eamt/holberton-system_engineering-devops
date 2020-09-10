@@ -12,3 +12,4 @@ first dir deletion
 11-lists
 file type
 symbolic link
+copy html
