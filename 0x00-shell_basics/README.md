@@ -11,3 +11,4 @@ first dir deletion
 10 back
 11-lists
 file type
+symbolic link
