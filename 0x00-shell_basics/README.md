@@ -14,3 +14,4 @@ file type
 symbolic link
 copy html
 uppercase
+clean emacs
