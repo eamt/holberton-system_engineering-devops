@@ -9,3 +9,4 @@ who am i
 8 james bond
 9-Jhon doe
 10 mirror
+12 directory permissions 2
