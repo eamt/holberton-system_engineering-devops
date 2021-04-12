@@ -5,5 +5,7 @@
 sudo apt-get -y update
 sudo apt-get -y install nginx
 sudo apt-get -y upgrade
+echo "Holberton School" > /var/www/html/index.html
 sudo sed -i '/listen 80 default_server;/a add_header X-Served-By $HOSTNAME;' /etc/nginx/sites-available/default
+
 sudo service nginx restart
